@@ -20,7 +20,7 @@ function About() {
     boxShadow: "inset 0px 0px 15px rgba(0, 0, 0, 0.5)", // Inset shadow for the recessed look
     borderRadius: "10px", // Optional: adds rounded corners for a softer inset effect
 }}>
-  <Avatar alt="Ella Hain" src="../public/Headshot copy.JPG" sx={{ width: 250, height: 250 }}/>
+  <Avatar alt="Ella Hain" src="/Headshot.JPG" sx={{ width: 250, height: 250 }}/>
     </Box>
     <Box
       sx={{
