@@ -14,8 +14,8 @@ function Home() {
           padding: "10px",
           fontSize: "18px",
           fontWeight: "bold",
-          marginTop: "64px", // Adding margin to push the Marquee below the navbar
-          width: "100%", // Make the marquee take up full width
+          marginTop: "62px", // Adding margin to push the Marquee below the navbar
+          width: "100vw", // Make the marquee take up full width
           position: "fixed", // Fix the marquee at the top of the screen
           top: "0", // Align it at the top of the screen
           left: "0",
